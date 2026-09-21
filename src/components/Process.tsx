@@ -1,23 +1,19 @@
 const steps = [
   {
     title: "Consulta inicial",
-    description:
-      "Hablemos de tu proyecto, tus objetivos y lo que necesitas.",
+    description: "Hablemos de tu proyecto, tus objetivos y lo que necesitas.",
   },
   {
     title: "Diseño",
-    description:
-      "Te propongo un diseño adaptado a tu marca y a tu público.",
+    description: "Te propongo un diseño adaptado a tu marca y a tu público.",
   },
   {
     title: "Desarrollo",
-    description:
-      "Construyo tu sitio con las tecnologías más modernas.",
+    description: "Convierto el diseño en una web funcional y adaptable.",
   },
   {
     title: "Lanzamiento",
-    description:
-      "Publico tu web y te guío para sacarle el máximo provecho.",
+    description: "Publico tu web y te guío para sacarle el máximo provecho.",
   },
 ];
 

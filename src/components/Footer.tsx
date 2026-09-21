@@ -5,14 +5,14 @@ export default function Footer() {
         <span>© {new Date().getFullYear()} TuDev. Hecho con ♥</span>
         <div className="footer-social">
           <a
-            href="https://github.com"
+            href="https://github.com/bluezin"
             target="_blank"
             rel="noopener noreferrer"
           >
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/bluezin"
             target="_blank"
             rel="noopener noreferrer"
           >

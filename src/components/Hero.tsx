@@ -20,9 +20,9 @@ export default function Hero() {
             Ver servicios
           </a>
         </div>
-        <div className="hero-stats">
+        {/* <div className="hero-stats">
           <div>
-            <strong>+15</strong>
+            <strong>2</strong>
             <span>Proyectos entregados</span>
           </div>
           <div>
@@ -33,7 +33,7 @@ export default function Hero() {
             <strong>1</strong>
             <span>Año de experiencia</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
