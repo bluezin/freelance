@@ -10,12 +10,6 @@ const nextConfig: NextConfig = {
         destination:
           "https://estudio-de-abogados-eosin.vercel.app/estudio-abogados",
       },
-      {
-        basePath: false,
-        source: "/estudio-abogados/:path*",
-        destination:
-          "https://estudio-de-abogados-eosin.vercel.app/estudio-abogados/:path*",
-      },
     ];
   },
 };
