@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
         destination:
           "https://estudio-de-abogados-eosin.vercel.app/estudio-abogados/:path*",
       },
+      {
+        basePath: false,
+        source: "/restaurant/:path*",
+        destination:
+          "https://restaurant-delta-blond-37.vercel.app/restaurant:path*",
+      },
     ];
   },
 };
