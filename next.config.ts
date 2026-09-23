@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
         basePath: false,
         source: "/estudio-abogados/:path*",
         destination:
-          "https://estudio-de-abogados-eosin.vercel.app/:path*",
+          "https://estudio-de-abogados-eosin.vercel.app/estudio-abogados/:path*",
       },
     ];
   },
