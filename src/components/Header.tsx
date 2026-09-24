@@ -19,6 +19,9 @@ export default function Header() {
               <a href="#servicios">Servicios</a>
             </li>
             <li>
+              <a href="#portafolio">Portafolio</a>
+            </li>
+            <li>
               <a href="#proceso">Proceso</a>
             </li>
             <li>
@@ -47,6 +50,9 @@ export default function Header() {
         <nav className="mobile-nav">
           <a href="#servicios" onClick={() => setMenuOpen(false)}>
             Servicios
+          </a>
+          <a href="#portafolio" onClick={() => setMenuOpen(false)}>
+            Portafolio
           </a>
           <a href="#proceso" onClick={() => setMenuOpen(false)}>
             Proceso
